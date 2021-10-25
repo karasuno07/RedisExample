@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "lettuce.host",
+      "type": "java.lang.String",
+      "description": "Description for spring.redis.lettuce.host."
+    },
+    {
+      "name": "lettuce.port",
+      "type": "java.lang.Integer",
+      "description": "Description for spring.redis.lettuce.port."
+    }
+  ]
+}
